@@ -40,7 +40,8 @@ INSTALLED_APPS = [
 
     'bootstrap4',
     'sitetree',
-
+    
+    'bab_core',
 ]
 
 MIDDLEWARE = [

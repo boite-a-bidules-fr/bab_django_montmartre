@@ -9,8 +9,6 @@ It will be soon used with bab apps...
 - [X] django-sitetree
 - [ ] django-allauth
 - [ ] Core application
-- [ ] Apache2 site's template
-- [ ] Cookiecutter integration
 
 ## Dependencies
 * django-bootstrap4
