@@ -7,6 +7,8 @@ Core app for django_montmartre
 ### Publication
 This model class include several most-used fields, using django-model-utils.
 
+#### 
+
 ## Views
 
 ## Templates
