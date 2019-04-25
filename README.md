@@ -8,7 +8,7 @@ It will be soon used with bab apps...
 - [X] Twitter's bootstrap4
 - [X] django-sitetree
 - [ ] django-allauth
-- [ ] [bab_core application](docs/bab_core.md)
+- [ ] [bab_core application](bab_core/docs/bab_core.md)
 
 ## Dependencies
 * django-bootstrap4
