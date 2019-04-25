@@ -1,0 +1,13 @@
+{% extends 'bootstrap4/bootstrap4.html' %}
+
+{% block bootstrap4_before_content %}
+  {% include 'header.html' %}
+{% endblock %}
+
+{% block bootstrap4_content %}
+  {% block app_content %}
+{% endblock %}
+
+{% block bootstrap4_after_content %}
+  {% include 'footer.html' %}
+{% endblock %}
