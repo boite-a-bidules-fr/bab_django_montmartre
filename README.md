@@ -1,2 +1,5 @@
 # bab_django_montmartre
-Django project template
+Modèle de projet pour Django 2.2
+* Settings dev / prod
+* Paramêtres Français par défaut
+
