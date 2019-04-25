@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.sites',
 
     'bootstrap4',
+    'sitetree',
 
 ]
 
