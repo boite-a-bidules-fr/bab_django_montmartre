@@ -1,13 +1,19 @@
 # bab_django_montmartre
-Django Project template
+Django project template for futures Boite à Bidules websites
 
-* Splitted settings
-* French settings
-* Publication app
+## Features
+- [X] Splitted settings
+- [X] Default French settings
+- [X] Twitter's bootstrap4
+- [X] django-sitetree
+- [ ] django-allauth
+- [ ] Apache2 site's template
+- [ ] Cookiecutter integration
 
 ## Dépendances
 * django-bootstrap4
 * django-sitetree
+* django-allauth
 
 ## Installation
 * make project directory
@@ -28,4 +34,8 @@ pip install django
 
 ```
 django-admin createproject <project-name> . --template=https://github.com/boite-a-bidules-fr/bab_django_montmartre/archive/master.zip
+```
+* install dependencies
+```
+pip install -r requirements.txt
 ```
